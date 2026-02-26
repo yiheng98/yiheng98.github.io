@@ -1,22 +1,60 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "ProfMal: Detecting Malicious NPM Packages by the Synergy between Static and Dynamic Analysis"
+    authors: <strong>Yiheng Huang</strong>, Wen Zheng, Susheng Wu, Bihuan Chen, You Lu, Zhuotong Zhou, Yiheng Cao, Xiaoyu Li, Xin Peng
+    conference_short: ASE
+    conference: International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2025.
+    pdf: https://chenbihuan.github.io/paper/ase25-huang-profmal.pdf
+    code: https://github.com/yiheng98/ProfMal
+    image: ./assets/img/profmal.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "SpiderScan: Practical Detection of Malicious NPM Packages Based on Graph-Based Behavior Modeling and Matching"
+    authors: <strong>Yiheng Huang</strong>, Ruisi Wang, Wen Zheng, Zhuotong Zhou, Susheng Wu, Shulin Ke, Bihuan Chen, Shan Gao, Xin Peng
+    conference_short: ASE
+    conference: International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3691620.3695492
+    image: ./assets/img/spiderScan.png
+    
+  - title: "Killing two birds with one stone: Malicious package detection in NPM and PyPI using a single model of malicious behavior sequence"
+    authors: Junan Zhang, Kaifeng Huang, <strong>Yiheng Huang</strong>, Bihuan Chen, Ruisi Wang, Chong Wang, Xin Peng
+    conference_short: TOSEM
+    conference: ACM Transactions on Software Engineering and Methodology (TOSEM), 2025.
+    pdf: https://dl.acm.org/doi/full/10.1145/3705304
+    image: ./assets/img/cerebro.png
+
+  - title: "Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM"
+    authors: Susheng Wu, Ruisi Wang, Yiheng Cao, Bihuan Chen, Zhuotong Zhou, <strong>Yiheng Huang</strong>, JunPeng Zhao, Xin Peng
+    conference_short: FSE
+    conference: International Conference on the Foundations of Software Engineering (FSE), 2025.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3715718
+    code: https://zenodo.org/records/14840986
+    image: ./assets/img/mystique.png
+    note: Best Paper Award
+
+  - title: "Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations"
+    authors: Kaifeng Huang, Bihuan Chen, You Lu, Susheng Wu, Dingji Wang, Yiheng Huang, Haowen Jiang, Zhuotong Zhou, Junming Cao, Xin Peng
+    conference_short: Preprint
+    conference: Arxiv Preprint, 2025.
+    pdf: https://arxiv.org/abs/2410.21218
+    image: ./assets/img/llm_supply_chain.png
+
+  - title: "Recurring Vulnerability Detection: How Far Are We?"
+    authors: Yiheng Cao, Susheng Wu, Ruisi Wang, Bihuan Chen, <strong>Yiheng Huang</strong>, Chenhao Lu, Zhuotong Zhou, Xin Peng
+    conference_short: ISSTA
+    conference: International Symposium on Software Testing and Analysis <strong>(ISSTA)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3728901
+    image: ./assets/img/antman.png
+
+  - title: "Vision: Identifying Affected Library Versions for Open Source Software Vulnerabilities"
+    authors: Susheng Wu, Ruisi Wang, Kaifeng Huang, Yiheng Cao, Wenyan Song, Zhuotong Zhou, <strong>Yiheng Huang</strong>, Bihuan Chen, Xin Peng
+    conference_short: ASE
+    conference: International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3691620.3695516
+    image: ./assets/img/vision.png
+
+  - title: "Magneto: A Step-Wise Approach to Exploit Vulnerabilities in Dependent Libraries via LLM-Empowered Directed Fuzzing"
+    authors: Zhuotong Zhou, Yongzhuo Yang, Susheng Wu, <strong>Yiheng Huang</strong>, Bihuan Chen, Xin Peng
+    conference_short: ASE
+    conference: International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3691620.3695531
+    image: ./assets/img/magneto.png

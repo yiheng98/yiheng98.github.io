@@ -1,4 +1,8 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div id="publications" style="margin: 2px 0px -5px;">
+    <h2 style="margin-bottom: 5px;">Selected Publications</h2>
+    <p style="margin-top: -5px;">Full list at <a href="https://scholar.google.com/citations?user=z4cUcR8AAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>. *Equal Contribution.
+    </p>
+</div>
 
 <div class="publications">
 <ol class="bibliography">
