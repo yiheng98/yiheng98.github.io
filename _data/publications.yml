@@ -32,7 +32,7 @@ main:
     note: Best Paper Award
 
   - title: "Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations"
-    authors: Kaifeng Huang, Bihuan Chen, You Lu, Susheng Wu, Dingji Wang, Yiheng Huang, Haowen Jiang, Zhuotong Zhou, Junming Cao, Xin Peng
+    authors: Kaifeng Huang, Bihuan Chen, You Lu, Susheng Wu, Dingji Wang, <strong>Yiheng Huang</strong>, Haowen Jiang, Zhuotong Zhou, Junming Cao, Xin Peng
     conference_short: Preprint
     conference: Arxiv Preprint, 2025.
     pdf: https://arxiv.org/abs/2410.21218
