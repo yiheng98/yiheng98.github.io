@@ -10,7 +10,7 @@ My research interests include software security, AI systems, and program analysi
 
 ## Research Interests
 
-- **OSS Supply Chain:** Malicious package detection in NPM/PyPI.
+- **OSS Supply Chain:** Malicious package detection in NPM/PyPI and C/C++ ecosystems.
 - **LLM Supply Chain:** Composition, risks, and mitigations of the LLM supply chain.
 - **MCP Security:** Risk evaluation and defense in MCP-integrated AI systems.
 
